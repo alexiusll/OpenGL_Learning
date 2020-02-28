@@ -1,1 +1,8 @@
 OpenGL_Learning/.vs/*
+
+OpenGL.sln
+.vs
+Debug
+
+
+OpenGL_Depth_testing/Debug/*
