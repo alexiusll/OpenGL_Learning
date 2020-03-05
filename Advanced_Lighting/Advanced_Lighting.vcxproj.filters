@@ -39,5 +39,11 @@
   <ItemGroup>
     <None Include="1.advanced_lighting.vert" />
     <None Include="1.advanced_lighting.frag" />
+    <None Include="3.1.1.shadow_mapping_depth.vert" />
+    <None Include="3.1.1.shadow_mapping_depth.frag" />
+    <None Include="3.1.1.debug_quad.vert" />
+    <None Include="3.1.1.debug_quad_depth.frag" />
+    <None Include="3.1.2.shadow_mapping.vert" />
+    <None Include="3.1.2.shadow_mapping.frag" />
   </ItemGroup>
 </Project>
