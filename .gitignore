@@ -5,4 +5,9 @@ OpenGL.sln
 Debug
 
 
+# 模型加载库
+assimp-vc141-mtd.dll
+
+
+
 OpenGL_Depth_testing/Debug/*
